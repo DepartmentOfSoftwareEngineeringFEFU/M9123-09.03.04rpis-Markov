@@ -1,0 +1,15 @@
+/.idea
+/.vscode
+
+/cmake-build-debug
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+cmake_install.cmake
+*.swp
+
+.venv/
+
+/output
+/presentation/presentation.html
+/presentation/presentation.pdf
